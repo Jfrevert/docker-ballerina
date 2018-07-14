@@ -1,0 +1,2 @@
+[2018-07-13 21:21:01,578] ERROR {org.ballerinalang.net.http.BallerinaHTTPConnectorListener} - Error in HTTP server connector: Remote client closed connection before initiating inbound request  
+[2018-07-13 21:53:40,369] ERROR {org.ballerinalang.net.http.BallerinaHTTPConnectorListener} - Error in HTTP server connector: Remote client closed connection before initiating inbound request  
